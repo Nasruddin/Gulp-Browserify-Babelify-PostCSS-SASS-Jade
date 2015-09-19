@@ -1,0 +1,21 @@
+{
+  "name": "workflow-starter",
+  "version": "0.0.1",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "babelify": "^6.3.0",
+    "browserify": "^11.1.0",
+    "cssnext": "^1.8.4",
+    "csswring": "^4.0.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jade": "^1.1.0",
+    "gulp-postcss": "^6.0.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.4.1",
+    "lost": "^6.6.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
